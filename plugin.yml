@@ -1,0 +1,10 @@
+name: HomeGUI
+main: me.blocklime.homegui.Main
+version: 1.0
+api-version: 1.20
+
+commands:
+  homegui:
+    description: Ev GUI menüsünü açar.
+  sethomegui:
+    description: Ev konumunu kaydeder.
